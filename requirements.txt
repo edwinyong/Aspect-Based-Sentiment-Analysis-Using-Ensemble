@@ -1,0 +1,14 @@
+flask
+nltk
+numpy
+pandas
+spacy
+torch
+tqdm
+transformers
+re
+contractions
+scikit-learn
+cupy-cuda12x
+pickle
+Werkzeug
